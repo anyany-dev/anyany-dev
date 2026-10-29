@@ -81,24 +81,6 @@ Colaboração na concepção e estruturação de uma iniciativa de software hous
 
 Desenvolvimento de sistemas envolvendo SQL, bancos de dados relacionais e programação. Também atuei como **Scrum Master**, organizando atividades, registros, apresentações e relatórios para facilitar o acompanhamento das entregas.
 
-## Minha jornada em dados
-
-```text
-Dados brutos → organização → qualidade → análise → informação útil → decisão
-```
-
-Tenho interesse em compreender o caminho completo dos dados: desde sua modelagem e armazenamento até a transformação, análise, visualização e uso responsável. Estou construindo essa jornada com atenção especial a **qualidade de dados, governança e LGPD**.
-
-## GitHub em números
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anyany-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=EC4899&text_color=8B949E&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyany-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=8B949E&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anyany-dev&bg_color=00000000&color=8B5CF6&line=EC4899&point=F9A8D4&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" alt="Gráfico de atividade" />
-
-</div>
 
 ## Contribuições
 
