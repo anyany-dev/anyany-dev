@@ -12,7 +12,6 @@ Transformo informações em soluções organizadas, úteis e fáceis de compreen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariany%20Barbosa-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arianybsilva)
 [![E-mail](https://img.shields.io/badge/E--mail-Fale%20comigo-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arianybsilva.bsi@gmail.com)
-![Localização](https://img.shields.io/badge/Uberl%C3%A2ndia-MG-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -65,17 +64,12 @@ ariany = {
 
 </div>
 
-> **Nota:** as tecnologias acima representam diferentes níveis de experiência. SQL é hoje minha competência mais consolidada; as demais fazem parte da minha prática e evolução contínua.
 
 ## Projetos e iniciativas
 
 ### 🧠 Mentes Brilhantes
 
 Projeto de extensão da UFU que ajudei a cocriar e no qual atuo como **cofundadora e extensionista**. Participo do planejamento das atividades, elaboração de materiais, documentação e articulação com uma equipe multidisciplinar.
-
-### 🚀 Ordinum
-
-Colaboração na concepção e estruturação de uma iniciativa de software house, apoiando o planejamento de projetos, a organização de atividades e a construção de uma dinâmica de trabalho colaborativa.
 
 ### 💻 Projetos acadêmicos de TI
 
